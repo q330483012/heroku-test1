@@ -1,4 +1,10 @@
 # 一键部署 v2ray 到 heroku (已经失效，请勿部署)
+#### 一键部署
+请点击下方的"Deploy to Heroku"按钮
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+###### --End--
 
 1.部署时配置 v2ray core 的版本、Vmess协议的UUID（"alterId"默认为64）和连接缓存。
 
